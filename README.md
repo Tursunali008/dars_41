@@ -8,7 +8,7 @@ A new Flutter project.
 <img src="assets/images/img3.png" width="300">
 <img src="assets/images/img4.png" width="300">
 
-Ikkinchi vazifa linki:
+Ikkinchi vazifa linki: https://github.com/Tursunali008/homework
 
 This project is a starting point for a Flutter application.
 
